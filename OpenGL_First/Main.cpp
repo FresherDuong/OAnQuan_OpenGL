@@ -50,12 +50,12 @@ char GAME_NAME[50] = "O AN QUAN : MODE PvP";
 
 // Duong dan toi file am thanh .wav
 #pragma region Duong_Dan_File_Am_Thanh
-char UP_DOWN_SOUND_PATH[300] = "C:/Users/Duong Dinh/Desktop/DoHoa/OpenGL_First/OpenGL_First/Audio/ChonOSound.wav";
-char ENTER_SOUND_PATH[300] = "C:/Users/Duong Dinh/Desktop/DoHoa/OpenGL_First/OpenGL_First/Audio/EnterSound.wav";
-char LEFT_RIGHT_SOUND_PATH[300] = "C:/Users/Duong Dinh/Desktop/DoHoa/OpenGL_First/OpenGL_First/Audio/DaiOSound2.wav";
+char UP_DOWN_SOUND_PATH[300] = "C:/Users/Duong Dinh/Desktop/First_repos/DHMT_N01_Nhom7_DeTai30_DuDinhDuong_67226_VuMinhHoang_70324/OpenGL_First/OpenGL_First/Audio/ChonOSound.wav";
+char ENTER_SOUND_PATH[300] = "C:/Users/Duong Dinh/Desktop/First_repos/DHMT_N01_Nhom7_DeTai30_DuDinhDuong_67226_VuMinhHoang_70324/OpenGL_First/OpenGL_First/Audio/EnterSound.wav";
+char LEFT_RIGHT_SOUND_PATH[300] = "C:/Users/Duong Dinh/Desktop/First_repos/DHMT_N01_Nhom7_DeTai30_DuDinhDuong_67226_VuMinhHoang_70324/OpenGL_First/OpenGL_First/Audio/DaiOSound2.wav";
 char BACK_GROUND_SOUND_PATH[300] = "Still Missing";
-char ESC_SOUND_PATH[300] = "C:/Users/Duong Dinh/Desktop/DoHoa/OpenGL_First/OpenGL_First/Audio/incorrect_sfx.wav";
-char WINNING_SOUND_PATH[300] = "C:/Users/Duong Dinh/Desktop/DoHoa/OpenGL_First/OpenGL_First/Audio/victory_confetti.wav";
+char ESC_SOUND_PATH[300] = "C:/Users/Duong Dinh/Desktop/First_repos/DHMT_N01_Nhom7_DeTai30_DuDinhDuong_67226_VuMinhHoang_70324/OpenGL_First/OpenGL_First/Audio/incorrect_sfx.wav";
+char WINNING_SOUND_PATH[300] = "C:/Users/Duong Dinh/Desktop/First_repos/DHMT_N01_Nhom7_DeTai30_DuDinhDuong_67226_VuMinhHoang_70324/OpenGL_First/OpenGL_First/Audio/victory_confetti.wav";
 #pragma endregion
 
 struct ToaDoDan {
